@@ -1,0 +1,86 @@
+Tell me about your day, how's it going?
+	Ahhhh, good to hear
+
+So what's your story?
+
+Describe your best friend, what are they like?
+	Oooooh, my best friend is Zoe, the prettiest monster
+
+So what do you do?
+	{job-title}
+
+So how did you end up doing {job-title}?
+
+If you could watch only one movie for the rest of your life, what would it be?
+
+Why?
+
+What makes you special? Me? I love telling jokes!
+
+Do you like dreams? What did you dream about last night?
+
+What is the funniest thing that has ever happened to you?
+
+What are you the most afraid of?
+	Ohhhh, interesting! Do you know what is a ghost's favourite dessert?
+	Wrong! It's Boooooooooooberry Pie!
+
+If you didn't have to sleep, what would you do with the extra time? Why?
+
+What would be the most amazing adventure to go on?
+
+When people come to you for help, what do they usually want help with?
+
+What takes up too much of your time?
+
+What are some small things that make your day better?
+
+What would be your first question after waking up from being cryogenically frozen for 100 years?
+
+What TV channel doesn’t exist but really should?
+
+What would be your ideal way to spend the weekend?
+
+What’s something you like to do the old-fashioned way?
+
+What have you only recently formed an opinion about?
+
+What’s your claim to fame?
+
+What are you interested in that most people haven’t heard of?
+
+How do you relax after a hard day of work?
+
+What is the most heartwarming thing you’ve ever seen?
+
+If you were dictator of a small island nation, what crazy dictator stuff would you do?
+
+What are you most looking forward to in the next 10 years?
+
+What’s the best thing that happened to you last week?
+
+What amazing thing did you do that no one was around to see?
+
+How different was life one year ago?
+
+What’s the best way to start the day?
+
+What quirks do you have?
+
+What kind of art do you enjoy most?
+
+What do you hope never changes?
+
+What’s the best way a person can spend their time? Except for chatting with me, of course.
+
+What is the luckiest thing that has happened to you?
+
+What are you looking forward to in the coming months?
+
+What is special about the place you grew up?
+
+What are you most likely to become famous for?
+
+
+
+

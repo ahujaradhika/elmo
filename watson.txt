@@ -1,0 +1,5 @@
+#JSON
+curl -X POST -u "apikey:QoK4TRsFxHfWUW3d-_KV4DOujgALshtnrzPolJ6BY_Wk" --header "Content-Type: text/plain;charset=utf-8" --header "Accept: application/json" --data-binary @C:\Users\ahuja\Desktop\side_projects\buzzfeed\sample.txt "https://gateway.watsonplatform.net/personality-insights/api/v3/profile?version=2017-10-13"
+#CSV
+curl -X POST -u "apikey:QoK4TRsFxHfWUW3d-_KV4DOujgALshtnrzPolJ6BY_Wk" --header "Content-Type: application/json" --header "Accept: text/csv" --data-binary @C:\Users\ahuja\Desktop\side_projects\buzzfeed\profile.json --output profile.csv "https://gateway.watsonplatform.net/personality-insights/api/v3/profile?version=2017-10-13&consumption_preferences=true&raw_scores=true&csv_headers=true"
+

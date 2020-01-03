@@ -1,0 +1,10 @@
+- Scrape movies
+	Set up database of movie with links to scripts
+	Connect to database of script txts
+	Pass script txts to next element
+- Separation
+	separate out characters of movies with what they say
+	write to sub-directory with txt of character name and their content
+- Trait Analysis
+	pass speech txt to trait analysis and get a list of traits back
+
